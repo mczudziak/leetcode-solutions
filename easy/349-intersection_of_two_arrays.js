@@ -3,6 +3,9 @@
 //
 // This solution uses sorting and binary search to find the intersection of two arrays.
 // Performance can be improved by using a Set for faster lookups and to avoid repeated sorting.
+
+// TODO: improve the algorithm for speed and efficiency
+
 var intersection = function (nums1, nums2) {
   const binarySearch = (nums, target) => {
     let left = 0;
