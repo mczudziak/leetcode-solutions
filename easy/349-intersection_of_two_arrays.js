@@ -1,3 +1,8 @@
+// 349. Intersection of Two Arrays
+// https://leetcode.com/problems/intersection-of-two-arrays/
+//
+// This solution uses sorting and binary search to find the intersection of two arrays.
+// Performance can be improved by using a Set for faster lookups and to avoid repeated sorting.
 var intersection = function (nums1, nums2) {
   const binarySearch = (nums, target) => {
     let left = 0;
