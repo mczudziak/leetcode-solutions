@@ -6,6 +6,8 @@ Welcome to the LeetCode Solutions repository! Here you'll find a curated collect
 
 ## Solved Problems
 
+## Easy
+
 <table>
 	<tr>
 		<th>#</th>
@@ -31,4 +33,30 @@ Welcome to the LeetCode Solutions repository! Here you'll find a curated collect
 		<tr><td>3110</td><td>Score of a String</td><td>🟦 Easy</td><td>easy/3110-score_of_string.js</td><td>✅</td><td></td></tr>
 		<tr><td>344</td><td>Reverse String</td><td>🟦 Easy</td><td>easy/344-reverse_string.js</td><td>✅</td><td></td></tr>
 		<tr><td>349</td><td>Intersection of Two Arrays</td><td>🟦 Easy</td><td>easy/349-intersection_of_two_arrays.js</td><td>🟡</td><td>The solution needs to be enhanced due to its slow execution time.</td></tr>
+</table>
+
+## Medium
+
+<table>
+<tr>
+		<th>#</th>
+		<th>Title</th>
+		<th>Difficulty</th>
+		<th>Solution Path</th>
+		<th>Status</th>
+		<th>Comment</th>
+	</tr>
+</table>
+
+## Hard
+
+<table>
+<tr>
+		<th>#</th>
+		<th>Title</th>
+		<th>Difficulty</th>
+		<th>Solution Path</th>
+		<th>Status</th>
+		<th>Comment</th>
+	</tr>
 </table>
