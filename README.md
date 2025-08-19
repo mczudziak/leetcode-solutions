@@ -15,7 +15,7 @@ Welcome to the LeetCode Solutions repository! Here you'll find a curated collect
 	<tr>
 		<td>349</td>
 		<td>Intersection of Two Arrays</td>
-		<td style="background-color: #ADD8E6;">Easy</td>
+		<td>🟦 Easy</td>
 		<td>easy/349-intersection_of_two_arrays.js</td>
 		<td>The solution needs to be enhanced due to its slow execution time.</td>
 	</tr>
