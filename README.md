@@ -2,6 +2,8 @@
 
 Welcome to the LeetCode Solutions repository! Here you'll find a curated collection of coding solutions for various LeetCode problems, organized by difficulty and topic. Each solution is written for clarity and learning, with notes on performance and possible improvements. Use this repo to track your progress, review different approaches, and enhance your problem-solving skills.
 
+**Languages used:** JavaScript
+
 ## Solved Problems
 
 <table>
