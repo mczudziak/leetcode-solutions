@@ -32,7 +32,8 @@ Welcome to the LeetCode Solutions repository! Here you'll find a curated collect
 			<tr><td>2769</td><td>Max Achievable Number</td><td>🟦 Easy</td><td>easy/2769-max_achievable_number.js</td><td>✅</td><td></td></tr>
 			<tr><td>3110</td><td>Score of a String</td><td>🟦 Easy</td><td>easy/3110-score_of_string.js</td><td>✅</td><td></td></tr>
 			<tr><td>344</td><td>Reverse String</td><td>🟦 Easy</td><td>easy/344-reverse_string.js</td><td>✅</td><td></td></tr>
-			<tr><td>349</td><td>Intersection of Two Arrays</td><td>🟦 Easy</td><td>easy/349-intersection_of_two_arrays.js</td><td>🟡</td><td>The solution needs to be enhanced due to its slow execution time.</td></tr>
+				<tr><td>349</td><td>Intersection of Two Arrays</td><td>🟦 Easy</td><td>easy/349-intersection_of_two_arrays.js</td><td>🟡</td><td>The solution needs to be enhanced due to its slow execution time.</td></tr>
+				<tr><td>704</td><td>Binary Search</td><td>🟦 Easy</td><td>easy/704-binary-search.js</td><td>✅</td><td>Uses safe middle calculation to avoid overflow.</td></tr>
 </table>
 
 ## Medium
