@@ -34,6 +34,8 @@ Welcome to the LeetCode Solutions repository! Here you'll find a curated collect
 			<tr><td>344</td><td>Reverse String</td><td>🟦 Easy</td><td>easy/344-reverse_string.js</td><td>✅</td><td></td></tr>
 				<tr><td>349</td><td>Intersection of Two Arrays</td><td>🟦 Easy</td><td>easy/349-intersection_of_two_arrays.js</td><td>🟡</td><td>The solution needs to be enhanced due to its slow execution time.</td></tr>
 				<tr><td>704</td><td>Binary Search</td><td>🟦 Easy</td><td>easy/704-binary-search.js</td><td>✅</td><td>Uses safe middle calculation to avoid overflow.</td></tr>
+			<tr><td>13</td><td>Roman to Integer</td><td>🟦 Easy</td><td>easy/13-roman_to_integer.js</td><td>✅</td><td>Uses a Map for symbol values; iterates from left to right, subtracts when needed.</td></tr>
+			<tr><td>20</td><td>Valid Parentheses</td><td>🟦 Easy</td><td>easy/20-valid_parentheses.js</td><td>✅</td><td>Requires improvement: execution time is very long for large inputs.</td></tr>
 </table>
 
 ## Medium
